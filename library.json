@@ -3,8 +3,8 @@
 	"keywords": "Mutli function Shield",
 	"description": "Allows easy use of multi function shield.",
 	"repository": {
-		"type": "",
-		"url": ""
+		"type": "git",
+		"url": "https://github.com/hansebaenger/MultiFunctionsShield"
 	},
 	"frameworks": "arduino",
 	"platforms": "atmelavr"
