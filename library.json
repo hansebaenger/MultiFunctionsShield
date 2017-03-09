@@ -1,15 +1,12 @@
 {
-  "name": "MultiFuncShield",
-  "keywords": "Mutli function Shield",
-  "description": "Allows easy use of multi function shield.",
-  "repository":
-  {
-    "type": "",
-    "url": ""
-  },
-  "frameworks": "arduino",
-  "platforms":
-  [
-    "atmelavr",
-  ]
+	"name": "MultiFuncShield",
+	"keywords": "Mutli function Shield",
+	"description": "Allows easy use of multi function shield.",
+	"repository": {
+		"type": "",
+		"url": ""
+	},
+	"frameworks": "arduino",
+	"platforms": "atmelavr"
+
 }
